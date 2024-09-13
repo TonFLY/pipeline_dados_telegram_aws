@@ -1,5 +1,5 @@
 # Pipeline de Dados: Telegram para AWS com Análise Exploratória
-![Texto alternativo para a imagem](https://raw.githubusercontent.com/TonFLY/images/main/awsetelegram.webp?token=GHSAT0AAAAAACUOTAJURXWXEK2DLUALOKISZXAWACA)
+![Texto alternativo para a imagem](https://wellingtonfly.site/pipelinededados.3aef0c3d.png)
 
 Este projeto demonstra a extração de dados do Telegram, sua transferência para um Datalake na AWS, processamento em lote na nuvem e análise dos dados tratados. 
 
